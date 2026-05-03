@@ -6,7 +6,7 @@ This is a high-level volunteer project that  involves the strategic systems desi
 The primary objective of this project is to transition the firm’s brand into a high-authority digital asset that functions as a reputation builder, a sales funnel, and a specialized knowledge platform. The website is designed to mirror the firm’s commitment to technical excellence, intelligent innovation and dynamism, providing a gateway for visionary leaders to turn challenges into competitive advantages. 
 
 ## 🔨 Tools Used: 
-- Lucid Charts: Process flow mapping. 
+- Lucid Charts: Process flow mapping 
 - Miro: Ideation
 - Canva: Profile deck
 
