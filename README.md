@@ -1,7 +1,7 @@
-# LucidPoint Consult Strategic Requirements Engineering & Digital Implementation Framework
+# LucidPoint Consult - Requirements Engineering & Digital Implementation Framework
 
 ## 📖 About the Project
-This is a high-level **volunteer project** that  involves the strategic design and development of a comprehensive digital ecosystem for **Lucid Point Consult**, a premier professional services firm based in Nigeria. The firm positions itself as "architects of sustainable success," standing at the intersection of deep financial expertise and transformative business strategy.
+This is a high-level **volunteer project** that  involves the strategic systems design and development of a comprehensive digital ecosystem for **Lucid Point Consult**, a premier professional services firm based in Nigeria. The firm positions itself as "architects of sustainable success," standing at the intersection of deep financial expertise and transformative business strategy.
 
 The primary objective of this project is to transition the firm’s brand into a high-authority digital asset that functions as a reputation builder, a sales funnel, and a specialized knowledge platform. The website is designed to mirror the firm’s commitment to technical excellence, intelligent innovation and dynamism, providing a gateway for visionary leaders to turn challenges into competitive advantages. 
 
